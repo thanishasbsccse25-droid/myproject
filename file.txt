@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Main branch update
 Change from feature branch
 
+=======
+Resolved version
+Main branch update
+>>>>>>> b4631c2 (Main branch change)
